@@ -1,5 +1,5 @@
 # PyModisAtm
-Python Routine to Download Modis Atmospheric Data from [LADSFTP](ftp://ladsftp.nascom.nasa.gov)
+Python Routine to Download Modis Atmospheric Data from [LADSFTP] (ftp://ladsftp.nascom.nasa.gov)
 
 In order to download data you must be logged in [LADSWEB](https://ladsweb.modaps.eosdis.nasa.gov/profile/login/)
 
@@ -14,15 +14,15 @@ doy = ['001']
 year = [2010,2011]
 ```
 
-**Product**
+**Product Version**
 ```
 version=['6'] 
 ### version =['51','6']
 ```
 
 **Time Zone**
-Example: _MOD07_L2.A2011001.**2215**.006.2015047180723.hdf_
-Adquire at 2215 UTC
+Example:Adquire at 2215 UTC --> _MOD07_L2.A2011001.**2215**.006.2015047180723.hdf_
+
 ```
 time='2215'
 time='.'+time+'.'
