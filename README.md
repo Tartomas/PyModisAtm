@@ -6,9 +6,8 @@ In order to download data you must be logged in [LADSWEB](https://ladsweb.modaps
 
 The following variables can be modified to download your own and specific data, check on [Reverb](https://reverb.echo.nasa.gov/reverb/) for the specific time zone. 
 
-Copyright Tomás Acuña - 2017
-This script only search over LADSFTP, use pyModis (Luca Delucchi) terrestrial data. 
-
+This script only search over LADSFTP, use pyModis (Luca Delucchi) for terrestrial MODIS data. 
+Copyright Tomás Acuña - 2017 
 _________________________________________
 
 **Day of year**
