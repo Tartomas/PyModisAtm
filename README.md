@@ -10,7 +10,7 @@ This script only search over LADSFTP, use [pyModis](http://www.pymodis.org) for 
 
 Copyright Tomás Acuña - 2017 
 
-#### Adjust the following variables to search over the FTP. This script will create a MODIS folder in (C:) with the selected products, downloading an specific hour and day for the givin years. 
+#### Adjust the following variables to search over the FTP. This script will create a MODIS folder (C:/MODIS) with the selected products, downloading each HDF file for and specific hour and day for the givin years. 
 _________________________________________
 
 **Product and version**
