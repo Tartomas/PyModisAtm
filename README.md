@@ -25,7 +25,9 @@ version=['6']
 ```
 
 **Time Zone**
-Example:Adquire at 2215 UTC --> _MOD07_L2.A2011001.**2215**.006.2015047180723.hdf_
+Example: Adquire at 2215 UTC 
+
+_MOD07_L2.A2011001.**2215**.006.2015047180723.hdf_
 
 ```
 time='2215'
