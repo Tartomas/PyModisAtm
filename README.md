@@ -27,6 +27,7 @@ doy = ['001']
 year = [2010,2011]
 ```
 **Time Zone**
+
 Example: Adquire at 2215 UTC 
 
 _MOD07_L2.A2011001.**2215**.006.2015047180723.hdf_
