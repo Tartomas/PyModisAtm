@@ -1,9 +1,13 @@
-# PyModisAtm
-Python Routine to Download Modis Atmospheric Data from [LADSFTP] (ftp://ladsftp.nascom.nasa.gov)
+# Welcome to PyModisAtm
+
+This a python routine for download MODIS Atmospheric Data from LADSFTP ftp://ladsftp.nascom.nasa.gov
 
 In order to download data you must be logged in [LADSWEB](https://ladsweb.modaps.eosdis.nasa.gov/profile/login/)
 
 The following variables can be modified to download your own and specific data, check on [Reverb](https://reverb.echo.nasa.gov/reverb/) for the specific time zone. 
+
+Copyright Tomás Acuña - 2017
+This script only search over LADSFTP, use pyModis (Luca Delucchi) terrestrial data. 
 
 _________________________________________
 
@@ -30,4 +34,4 @@ product=['MOD07_L2','MOD04_L2','MOD05_L2']
 ```
 __________________________________________
 
-Best regards
+Best regards!
