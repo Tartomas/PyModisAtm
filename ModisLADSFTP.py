@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr  4 13:02:35 2017
-@author: Tomás Acuña y Italo Moletto
-mail: tomasacuna@ug.uchile.cl
+May 2017
+Tomás Acuña & Italo Moletto
+mail: tomasacuna@ug.uchile.cl // italo.moletto@um.uchile.cl
 Modified from : http://www.science-emergence.com/Codes/Download-a-file-of-MODIS-MYD08-M3-from-ladsftp-using-python/
 """
 
